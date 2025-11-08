@@ -1,0 +1,19 @@
+{
+    "name": "haisam-hameed/hello",
+    "description": "This is my first package",
+    "autoload": {
+        "psr-4": {
+            "HaisamHameed\\HelloPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Haisam",
+            "email": "haisamhameed07@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "version": "1.0.0"
+}
